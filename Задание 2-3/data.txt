@@ -1,0 +1,1 @@
+Array - [62 60 20 28 16], Sum - 186, Response Status to https://ya.ru - 200 OK

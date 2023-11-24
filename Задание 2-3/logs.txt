@@ -1,0 +1,14 @@
+{"level":"info","msg":"GetArrFromJson(): data - [62 60 20 28 16]","time":"2023-11-24 10:31:03"}
+{"level":"info","msg":"TotalSum(): input - [62 60 20 28 16], result - 186","time":"2023-11-24 10:31:03"}
+{"level":"info","msg":"GetStatusResponse() to https://ya.ru with response 200 OK","time":"2023-11-24 10:31:03"}
+time="2023-11-24T10:42:56+03:00" level=info msg="GetArrFromJson(): data - [62 60 20 28 16]"
+time="2023-11-24T10:42:56+03:00" level=info msg="TotalSum(): input - [62 60 20 28 16], result - 186"
+time="2023-11-24T10:42:56+03:00" level=info msg="GetStatusResponse() to https://ya.ru with response 200 OK"
+{"level":"info","msg":"GetArrFromJson(): data - [62 60 20 28 16]","time":"2023-11-24 10:44:03"}
+{"level":"info","msg":"TotalSum(): input - [62 60 20 28 16], result - 186","time":"2023-11-24 10:44:03"}
+{"level":"info","msg":"GetStatusResponse() to https://ya.ru with response 200 OK","time":"2023-11-24 10:44:03"}
+{"level":"info","msg":"TotalSum(): input - [10 25 17 36], result - 88","time":"2023-11-24 10:44:42"}
+{"level":"info","msg":"GetStatusResponse() to https://ya.ru with response 200 OK","time":"2023-11-24 10:44:43"}
+{"level":"info","msg":"GetArrFromJson(): data - [62 60 20 28 16]","time":"2023-11-24 11:03:25"}
+{"level":"info","msg":"TotalSum(): input - [62 60 20 28 16], result - 186","time":"2023-11-24 11:03:25"}
+{"level":"info","msg":"GetStatusResponse() to https://ya.ru with response 200 OK","time":"2023-11-24 11:03:25"}
